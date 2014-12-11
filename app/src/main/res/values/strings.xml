@@ -23,5 +23,6 @@
     <string name="title_activity_borra_agenda">BorraAgenda</string>
     <string name="adios">Adios</string>
     <string name="borrar">Borra</string>
+    <string name="elimino"></string>
 
 </resources>
