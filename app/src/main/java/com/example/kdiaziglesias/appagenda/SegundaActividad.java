@@ -27,6 +27,30 @@ public class SegundaActividad extends Activity {
 
         Button botonok = (Button)findViewById(R.id.bok);
 
+        Button botelimina = (Button)findViewById(R.id.beliminar);
+
+        botelimina.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                EditText text = (EditText) findViewById(R.id.pnombre3);
+                EditText text2 = (EditText) findViewById(R.id.ptelefono2);
+
+                String salutation="";
+                String enterName = text.getText().toString();
+                String enterTelefono = text2.getText().toString();
+
+                salutation = getResources().getString(R.string.borrar)+" "+salutation+" "+ enterName+" "+enterTelefono;
+
+                Intent intento = new Intent(SegundaActividad.this,BorraAgenda.class);
+                intento.putExtra("salutation",salutation);
+                startActivityForResult(intento,1);
+
+
+
+            }
+        });
+
 
         botonok.setOnClickListener(new View.OnClickListener() {
             @Override
