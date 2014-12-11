@@ -7,13 +7,9 @@
     <string name="title_activity_contacto">Contacto</string>
     <string name="title_activity_lista_agenda">ListaAgenda</string>
     <string name="title_activity_segunda_actividad">SegundaActividad</string>
-
-
     <string name="agenda">Agenda</string>
-
     <string name="añadir">Añadir</string>
     <string name="ok">OK</string>
-
     <string name="msg">Falta por poner nombre o telefono</string>
     <string name="pnombre">Nombre</string>
     <string name="ptelefono">Telefono</string>
@@ -21,9 +17,10 @@
     <string name="pnombre2">Nombre</string>
     <string name="editar"></string>
     <string name="pnombre3"></string>
-
     <string name="blista"></string>
     <string name="title_activity_actividad_borrar">ActividadBorrar</string>
-
+    <string name="title_activity_borrar_lista">BorrarLista</string>
+    <string name="title_activity_borra_agenda">BorraAgenda</string>
+    <string name="adios">Adios</string>
 
 </resources>
