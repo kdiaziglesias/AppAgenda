@@ -5,6 +5,7 @@ import java.io.Serializable;
 /**
  * Created by kdiaziglesias on 11/12/14.
  */
+//Lo tuve que hacer de nuevo porque mi anterior progama MiPriopioApp no me subia los commits.
 public class Contacto implements Serializable {
 
     private String nombre;

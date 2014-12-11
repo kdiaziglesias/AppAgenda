@@ -12,7 +12,7 @@ import android.widget.ListView;
 import android.widget.Toast;
 
 import com.example.kdiaziglesias.appagenda.R;
-
+//Lo tuve que hacer de nuevo porque mi anterior progama MiPriopioApp no me subia los commits.
 import java.util.ArrayList;
 
 public class ListaAgenda extends ListActivity {

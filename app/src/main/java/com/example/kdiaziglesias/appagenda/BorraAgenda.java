@@ -12,7 +12,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.kdiaziglesias.appagenda.R;
-
+//Menos esta parte que es echo en el examen.
 public class BorraAgenda extends Activity {
 
     @Override

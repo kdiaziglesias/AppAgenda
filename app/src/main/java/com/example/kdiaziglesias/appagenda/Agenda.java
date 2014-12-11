@@ -15,6 +15,8 @@ import android.widget.Toast;
 import java.util.ArrayList;
 
 
+//Lo tuve que hacer de nuevo porque mi anterior progama MiPriopioApp no me subia los commits.
+
 public class Agenda extends Activity {
 
     Contacto conn;

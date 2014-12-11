@@ -13,7 +13,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.example.kdiaziglesias.appagenda.R;
-
+//Lo tuve que hacer de nuevo porque mi anterior progama MiPriopioApp no me subia los commits.
 public class SegundaActividad extends Activity {
 
     @Override
